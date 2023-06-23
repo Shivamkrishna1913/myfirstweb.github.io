@@ -135,8 +135,16 @@ main hr {
   top: 50px;
   width: 150px;
 }
+.open-project-link a{
+  text-decoration: none;
+  font-size: 1.03rem;
+  font-family: 'Times New Roman', Times, serif;
+}
+.open-project-link  a:hover{
+  color : lightblue;
+}
 footer {
-  margin: 20px 0 0 0;
+  margin: 40px 0 0 0;
   background-color: rgb(89, 4, 158);
   height: 250px;
 }
